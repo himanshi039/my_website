@@ -1,0 +1,72 @@
+*
+{
+    margin=0;
+    padding:0;
+}
+
+
+
+body{
+  background: url(black-background-images-15.jpg) no-repeat center fixed;
+  -webkit-background-size:
+cover;
+-moz-background-size:cover;
+-o-background-size:cover;
+background-size:100% 100%;
+overflow: hidden;
+}
+
+
+
+.set
+{
+    height:98%;
+  width:20%;
+margin-left:15%;
+
+}
+
+.img_circle
+{
+    border-radius: 50%;
+    float: right;
+}
+
+.position
+{
+    float: right;
+}
+
+
+#a
+{
+position: relative;
+    transform: translateX(155%)
+}
+#b
+{
+    position: relative;
+    transform: translateX(175%);
+}
+#c
+{
+    position: relative;
+    transform: translateX(220%);
+}
+#down
+{   position: absolute;
+    top:35%;
+}
+
+#demo
+{
+    position: relative;
+    transform: translateX(60%);
+    top:50%;
+}
+#t1
+{
+ position: relative;
+    transform: translateXscale(10%);
+margin-top: 30%;
+}
