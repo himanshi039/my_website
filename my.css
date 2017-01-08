@@ -41,21 +41,22 @@ margin-left:15%;
 #a
 {
 position: relative;
-    transform: translateX(155%)
+    transform: translateX(135%);
 }
 #b
 {
     position: relative;
-    transform: translateX(175%);
+    transform: translateX(145%);
 }
 #c
 {
     position: relative;
-    transform: translateX(220%);
+    transform: translateX(200%);
 }
 #down
 {   position: absolute;
     top:35%;
+    
 }
 
 #demo
@@ -67,6 +68,8 @@ position: relative;
 #t1
 {
  position: relative;
-    transform: translateXscale(10%);
-margin-top: 30%;
+    transform: translateXscale(20%);
+margin-top: 40%;
+    padding: 40%;
+    opacity:20%;
 }
