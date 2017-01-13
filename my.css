@@ -1,0 +1,137 @@
+*
+{
+    margin=0;
+    padding:0;
+}
+
+
+
+body{
+  background: url(black-background-images-15.jpg) no-repeat center fixed;
+  -webkit-background-size:
+cover;
+-moz-background-size:cover;
+-o-background-size:cover;
+background-size:100% 100%;
+overflow: hidden;
+}
+
+
+
+
+.set
+{
+    height:98%;
+  width:20%;
+margin-left:15%;
+
+}
+
+.img_circle
+{
+    border-radius: 50%;
+    float: right;
+}
+
+.position
+{
+    float: right;
+}
+
+
+
+#down
+{
+
+margin-left: 55%;
+margin-top:20%;
+
+}
+
+#demo
+{
+    position: relative;
+
+    top:50%;
+}
+#t1
+{
+ position: relative;
+
+margin-top: 40%;
+    padding: 40%;
+    opacity:50%;
+}
+
+.new_buttn1
+{ 
+   margin-left: 30%; 
+    margin-top:75%;
+  background-color: rgba(0,0,0,0.5);
+  padding:10px;
+  border:2px solid #E74C3C;
+  color:white;
+  width:100px;
+  cursor:pointer;
+  text-align:center;
+}
+
+.new_buttn1:hover
+{
+  background-color:#E74C3C;
+  
+}
+.new_buttn2
+{ 
+       margin-left: 30%; 
+    margin-top:15%;
+  background-color: rgba(0,0,0,0.5);
+  padding:10px;
+  border:2px solid #E74C3C;
+  color:white;
+  width:100px;
+  cursor:pointer;
+  text-align:center;
+}
+
+.new_buttn2:hover
+{
+  background-color:#E74C3C;
+  
+}
+.new_buttn3
+{ 
+       margin-left: 30%; 
+    margin-top:15%;
+  background-color: rgba(0,0,0,0.5);
+  padding:10px;
+  border:2px solid #E74C3C;
+  color:white;
+  width:100px;
+  cursor:pointer;
+  text-align:center;
+}
+
+.new_buttn3:hover
+{
+  background-color:#E74C3C;
+  
+}
+.new_buttn4
+{ 
+       margin-left: 30%; 
+    margin-top:10%;
+  background-color: rgba(0,0,0,0.5);
+  padding:10px;
+  border:2px solid #E74C3C;
+  color:white;
+  width:100px;
+  cursor:pointer;
+  text-align:center;
+}
+
+.new_buttn4:hover
+{
+  background-color:#E74C3C;
+  
+}
