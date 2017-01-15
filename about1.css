@@ -1,0 +1,59 @@
+*
+{
+    margin=0;
+    padding:0;
+}
+
+body{
+  background: url(imag1.jpg) no-repeat center fixed;
+  -webkit-background-size:
+cover;
+-moz-background-size:cover;
+-o-background-size:cover;
+background-size:100% 100%;
+overflow: hidden;
+}
+
+
+.img
+{
+    
+    border:5px solid white;
+
+}
+
+.position
+{  margin-top: 4%;
+    margin-left: 35%;
+}
+
+.left
+{
+    margin-left: 15%;
+}
+
+.new_buttn
+{ 
+ border-radius: 15px 50px 30px;
+  margin-top: 7%;  
+  background-color: rgba(0,0,0,0.5);
+  padding:10px;
+  border:2px solid #3E2723;
+  color:white;
+  width:100px;
+  cursor:pointer;
+  text-align:center;
+}
+
+.new_buttn:hover
+{
+  background-color:#8D6E63;
+    
+}
+
+
+
+
+
+
+
